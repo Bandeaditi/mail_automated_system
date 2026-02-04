@@ -1,0 +1,46 @@
+{
+  "saved_at": "2026-01-30 09:36:48",
+  "total_emails": 3,
+  "actionable_count": 1,
+  "non_actionable_count": 2,
+  "actionable_emails": [
+    {
+      "from": "idolize aditi <idolizeaditi412@gmail.com>",
+      "to": "idolize aditi <idolizeaditi412@gmail.com>",
+      "subject": "Urgent need to make the secuity of the account",
+      "date": "2026-01-28 12:30:08",
+      "actionable": true,
+      "urgency_score": 75,
+      "importance": "HIGH",
+      "action": "REPLY",
+      "reasoning": "The sender is alerting me to the fact that there have been login attempts from two other locations, which may indicate a security risk.",
+      "body": "You account is detected o login from 2 anothe places. Urgently change the\npassword or face consequence. and reply to this email"
+    }
+  ],
+  "non_actionable_emails": [
+    {
+      "from": "idolize aditi <idolizeaditi412@gmail.com>",
+      "to": "idolize aditi <idolizeaditi412@gmail.com>",
+      "subject": "Request the Document",
+      "date": "2026-01-28 12:00:29",
+      "actionable": false,
+      "urgency_score": 50,
+      "importance": "NORMAL",
+      "action": "READ_ONLY",
+      "reasoning": "Standard email",
+      "body": "urgently give the document"
+    },
+    {
+      "from": "Pinterest <recommendations@discover.pinterest.com>",
+      "to": "idolize aditi <idolizeaditi412@gmail.com>",
+      "subject": "For idolize: Pretty wallpaper ipad",
+      "date": "2026-01-27 09:05:47",
+      "actionable": false,
+      "urgency_score": 50,
+      "importance": "NORMAL",
+      "action": "READ_ONLY",
+      "reasoning": "LLM unavailable - default analysis",
+      "body": "To view this content open the following URL in your browser: https://www.pinterest.com/email/click/?user_id=OTQ4NzgxOTgzOTA2MTkzNjE1&od=dD0zMDUxM2I2OTQ5OWM0OTc0OWFiNGExY2I5MDViM2JiMyZjPUpPVVJORVlfQVdBUkVfUElOUyZzPTMwNTEzYjY5NDk5YzQ5NzQ5YWI0YTFjYjkwNWIzYmIzJm49Mjk4YTVhZWI5ZTJjNDZiMWFmNDAwNWI2ZmIwNGVmMDk%3D&target=https%3A%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DOTQ4NzgxOTgzOTA2MTkzNjE1%26od%3Dv2SqVtMZLJ8ba6SPoLRiWGCB7zWNb5tyqb85JkS%252Fe7wpUky08hRq2TvpB0L6Ez29gSCTaYMIddBu5Dz1NodQ2Lr942%252Bd1aOPjtQphfzVmlcyXnkPAEe3d808XMCyna4PGZzL4LNtMz85pRyiWloEOg%253D%253D%26next%3D%252Fsearch%252Fpins%252F%253Fq%253DPretty%252520Wallpaper%252520Ipad%2526utm_campaign%253Djourney_aware_pins%2526e_t%253D30513b69499c49749ab4a1cb905b3bb3%2526e_t_s%253Dcta%2526utm_source%253D31%2526utm_medium%253D2012\n\n\nPinterest\n\n651 Brannan Street, San Francisco, CA, 94107\n\n  Help Center: https://www.pinterest.com/email/click/?user_id=OTQ4NzgxOTgzOTA2MTkzNjE1&od=dD0zMDUxM2I2OTQ5OWM0OTc0OWFiNGExY2I5MDViM2JiMyZjPUpPVVJORVlfQVdBUkVfUElOUyZzPTMwNTEzYjY5NDk5YzQ5NzQ5YWI0YTFjYjkwNWIzYmIzJm49Mjk4YTVhZWI5ZTJjNDZiMWFmNDAwNWI2ZmIwNGVmMDk%3D&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fhelp%2F%3Fsource%3Demail_footer%26utm_campaign%3Djourney_aware_pins%26e_t%3D30513b69499c49749ab4a1cb905b3bb3%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2012\n\n  Privacy Policy: https://www.pinterest.com/email/click/?user_id=OTQ4NzgxOTgzOTA2MTkzNjE1&od=dD0zMDUxM2I2OTQ5OWM0OTc0OWFiNGExY2I5MDViM2JiMyZjPUpPVVJORVlfQVdBUkVfUElOUyZzPTMwNTEzYjY5NDk5YzQ5NzQ5YWI0YTFjYjkwNWIzYmIzJm49Mjk4YTVhZWI5ZTJjNDZiMWFmNDAwNWI2ZmIwNGVmMDk%3D&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fprivacy-policy%2F\n\n  Terms & Conditions: https://www.pinterest.com/email/click/?user_id=OTQ4NzgxOTgzOTA2MTkzNjE1&od=dD0zMDUxM2I2OTQ5OWM0OTc0OWFiNGExY2I5MDViM2JiMyZjPUpPVVJORVlfQVdBUkVfUElOUyZzPTMwNTEzYjY5NDk5YzQ5NzQ5YWI0YTFjYjkwNWIzYmIzJm49Mjk4YTVhZWI5ZTJjNDZiMWFmNDAwNWI2ZmIwNGVmMDk%3D&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fterms-of-service%2F\n\n  Unsubscribe: https://www.pinterest.com/email/click/?user_id=OTQ4NzgxOTgzOTA2MTkzNjE1&od=dD0zMDUxM2I2OTQ5OWM0OTc0OWFiNGExY2I5MDViM2JiMyZjPUpPVVJORVlfQVdBUkVfUElOUyZzPTMwNTEzYjY5NDk5YzQ5NzQ5YWI0YTFjYjkwNWIzYmIzJm49Mjk4YTVhZWI5ZTJjNDZiMWFmNDAwNWI2ZmIwNGVmMDk%3D&target=https%3A%2F%2Fwww.pinterest.com%2Femail%2Funsubscribe%2F%3Fuser_id%3DOTQ4NzgxOTgzOTA2MTkzNjE1%26od%3DTTWa4%252FhVnBtd7Bk0e2B4zYP4bZf%252B4Ut4EosSjWmJmbTJr%252FoIbxUt0HSvZjxms6jSdeCtlo3ce%252Bxv%252FRd2YZ9zWz7CufJcTSWnhWU%252FOKPLII3ZQyEjnEYpwPYyTkE4tBctHEi9a%252FCo2UlrRzjrw2GEpFEU%252FOLHtOTNOvKwkt9%252FAG6YRkG%252F%252B2%252FE58U97WJays2bEZ9LXceJQC0JgyIyIS%252Fkiuk0e37K9He84W7%252FVxu3E8Ezrdi9E9ABUovtnZEVujuBkwWQsjAxrZWHVDnzRdmWNX9cmVtmFBiHOJL65MnpULEPUA%252FIzzujO7mGEAZHpD5aerCgKvbzVADNXqM7vHGP6p9bv2%252FMv1a4DW%252BpeXHGVPQHKyWbESvXzYo5pD99%252F8mRmMzSKUU4Va7TlCvDqOZdATDDvNf26xb2PLCI%252FnQjlgRsvQa3%252F7jwddYQbG%252FTqU6P%26utm_campaign%3Djourney_aware_pins%26e_t%3D30513b69499c49749ab4a1cb905b3bb3%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2012"
+    }
+  ]
+}
